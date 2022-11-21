@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_component_media",
+  "info": {
+    "displayName": "Media"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "type": {
+      "type": "string",
+      "default": "media"
+    }
+  }
+}

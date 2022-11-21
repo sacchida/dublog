@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_component_dyn_yts",
+  "info": {
+    "displayName": "embedContent",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    },
+    "type": {
+      "type": "string",
+      "default": "youtubeEmbed"
+    }
+  }
+}

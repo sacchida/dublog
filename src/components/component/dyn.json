@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_component_dyns",
+  "info": {
+    "displayName": "textContent",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "string",
+      "default": "text"
+    },
+    "text": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
